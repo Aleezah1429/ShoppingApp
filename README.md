@@ -1,22 +1,22 @@
 # ShoppingApp
 
-Online Shopping App built on *React Native* and *Firebase Realtime Database*.
+Online Shopping App built on **React Native** and **Firebase Realtime Database**.
 
 ![Logo](https://user-images.githubusercontent.com/64039135/135723674-e2c9d2c0-214e-486d-9865-9dab0a8a9c83.png)
 
 
 ## LANGUAGES USED:
-1. *HTML*
-2. *CSS*
-3. *JAVASCRIPT*
+1. **HTML**
+2. **CSS**
+3. **JAVASCRIPT**
 
 ## TECHNOLOGIES USED:
-1. *REACT NATIVE* (FOR DEVELOPMENT PURPOSE)
-2. *FIREBASE* (FOR DATABASE PURPOSE)
+1. **REACT NATIVE** (FOR DEVELOPMENT PURPOSE)
+2. **FIREBASE** (FOR DATABASE PURPOSE)
 
 ## DESCRIPTION
 
-1.	*Home*
+1.	**Home**
 
 Welcome screen of the app which shows the app logo and app name with animation.We sign in with google button. First you sign in with Gmail then proceeds to the next activity.
 
@@ -31,7 +31,7 @@ After sign in screen look like this
 
 
 
-2.	*Categories*
+2.	**Categories**
 
 Categories Page for customers where they can choose their category of items to shop. 
 
@@ -40,7 +40,7 @@ Categories Page for customers where they can choose their category of items to s
 
 
 
-3.	  *Cards*
+3.	  **Cards**
 
 Activities for displaying items or subdivisions within the category of respective Activity name. Here is also a add to *cart* button which add items in cart which you want.
 
@@ -48,14 +48,14 @@ Activities for displaying items or subdivisions within the category of respectiv
 
 
 
-4.	*Cart*
+4.	**Cart**
 
 Display all selected item which you add in a cart. You also add, sub or delete items. Here is also a *checkout* button.
 
 <img src="https://user-images.githubusercontent.com/64039135/135726165-dd04dd2c-6fce-46e3-978e-bb55ec953f54.jpeg" width="250px" height="400px" />
 
 
-5.	*Checkout*
+5.	**Checkout**
 
 Customer enter their Payment details. Push ordered item and Price details also display which upload on Firebase.
 
@@ -63,7 +63,7 @@ Customer enter their Payment details. Push ordered item and Price details also d
 <img src="https://user-images.githubusercontent.com/64039135/135725995-1156291d-002e-41fb-8acc-91c3bda57b8c.jpeg" width="250px" height="400px" />
 
 
-6.	*Search*
+6.	**Search**
 
 Products can be searched with a search field
 
